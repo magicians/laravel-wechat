@@ -7,7 +7,8 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.1.36",
-        "overtrue/wechat": "~3.0"
+        "overtrue/wechat": "~3.0",
+        "almasaeed2010/adminlte": "~2.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
